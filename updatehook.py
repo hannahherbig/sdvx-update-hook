@@ -22,18 +22,17 @@ if response.encoding == "Windows-31J":
 
 doc = lxml.html.fromstring(response.text)
 
-for div in reversed(doc.cssselect("div.news_box")):
-    urls = [img.attrib["data-original"] for img in div.cssselect("img")]
+urls = [img.attrib["data-original"] for img in dic.cssselect("div.news_box > a > img")]
 
-    for url in urls:
-        if url not in prev_urls:
-            print(url)
-            urls.append(url)
-            r = requests.get(url, stream=True)
-            files = {"file": (os.path.basename(url), r.raw)}
-            if WEBHOOK:
-                response = requests.post(WEBHOOK, files=files)
-                response.raise_for_status()
+for url in urls:
+    if url not in prev_urls:
+        print(url)
+        urls.append(url)
+        r = requests.get(url, stream=True)
+        files = {"file": (os.path.basename(url), r.raw)}
+        if WEBHOOK:
+            response = requests.post(WEBHOOK, files=files)
+            response.raise_for_status()
 
-    with open(URLS, "w") as f:
-        f.write("\n".join(urls))
+with open(URLS, "w") as f:
+    f.write("\n".join(urls))
