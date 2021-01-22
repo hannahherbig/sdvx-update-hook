@@ -1,39 +1,46 @@
+import asyncio
 import os
-import os.path
+from pathlib import Path
 
+import aiohttp
 import lxml.html
-import requests
+from yarl import URL
 
 WEBHOOK = os.environ.get("DISCORD_WEBHOOK_URL")
 
-URLS = "urls.txt"
+ALL_URLS = Path("urls.txt")
+CURRENT_URLS = Path("current_urls.txt")
 
-try:
-    with open(URLS, "r") as f:
-        prev_urls = f.read().strip().split()
-except FileNotFoundError:
-    prev_urls = []
 
-response = requests.get("https://p.eagate.573.jp/game/sdvx/")
-response.raise_for_status()
+async def main():
+    try:
+        all_urls = ALL_URLS.read_text().split()
+    except FileNotFoundError:
+        all_urls = []
 
-if response.encoding == "Windows-31J":
-    response.encoding = "CP932"
+    async with aiohttp.ClientSession(raise_for_status=True) as session:
+        async with session.get("https://p.eagate.573.jp/game/sdvx/") as response:
+            html = lxml.html.fromstring(await response.text())
 
-doc = lxml.html.fromstring(response.text)
+        urls = [
+            img.attrib["data-original"] for img in html.cssselect("div.news_box img")
+        ]
 
-urls = [img.attrib["data-original"] for img in doc.cssselect("div.news_box img")]
+        for url in urls:
+            if WEBHOOK and url not in all_urls:
+                print(url)
+                all_urls.append(url)
+                async with session.get(url) as response:
+                    image_data = await response.read()
+                data = aiohttp.FormData()
+                data.add_field("file", image_data, filename=URL(url).name)
+                response = requests.post(WEBHOOK, data=data)
+                response.raise_for_status()
 
-for url in urls:
-    if url not in prev_urls:
-        print(url)
-        urls.append(url)
-        r = requests.get(url, stream=True)
-        r.raise_for_status()
-        files = {"file": (os.path.basename(url), r.raw)}
-        if WEBHOOK:
-            response = requests.post(WEBHOOK, files=files)
-            response.raise_for_status()
+    ALL_URLS.write_text("".join(f"{url}\n" for url in all_urls))
+    CURRENT_URLS.write_text("".join(f"{url}\n" for url in urls))
 
-with open(URLS, "w") as f:
-    f.write("".join(f"{url}\n" for url in urls))
+
+if __name__ == "__main__":
+    loop = asyncio.get_event_loop()
+    loop.run_until_complete(main())
