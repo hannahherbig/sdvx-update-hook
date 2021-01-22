@@ -22,7 +22,7 @@ if response.encoding == "Windows-31J":
 
 doc = lxml.html.fromstring(response.text)
 
-urls = [img.attrib["data-original"] for img in dic.cssselect("div.news_box > a > img")]
+urls = [img.attrib["data-original"] for img in doc.cssselect("div.news_box > a > img")]
 
 for url in urls:
     if url not in prev_urls:
