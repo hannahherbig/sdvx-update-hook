@@ -35,4 +35,4 @@ for url in urls:
             response.raise_for_status()
 
 with open(URLS, "w") as f:
-    f.write("\n".join(urls))
+    f.write("".join(f"{url}\n" for url in urls))
