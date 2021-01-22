@@ -34,8 +34,7 @@ async def main():
                     image_data = await response.read()
                 data = aiohttp.FormData()
                 data.add_field("file", image_data, filename=URL(url).name)
-                response = requests.post(WEBHOOK, data=data)
-                response.raise_for_status()
+                await session.post(WEBHOOK, data=data)
 
     ALL_URLS.write_text("".join(f"{url}\n" for url in all_urls))
     CURRENT_URLS.write_text("".join(f"{url}\n" for url in urls))
