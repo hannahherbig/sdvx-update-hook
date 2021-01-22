@@ -1,8 +1,8 @@
 import os
 import os.path
 
+import lxml.html
 import requests
-from bs4 import BeautifulSoup
 
 WEBHOOK = os.environ.get("DISCORD_WEBHOOK_URL")
 
@@ -20,10 +20,11 @@ response.raise_for_status()
 if response.encoding == "Windows-31J":
     response.encoding = "CP932"
 
-doc = BeautifulSoup(response.text, "lxml")
-for div in reversed(doc.find_all("div", class_="news_box")):
-    for img in div.find_all("img"):
-        url = img["data-original"]
+doc = lxml.html.fromstring(response.text)
+
+for div in reversed(doc.cssselect("div.news_box")):
+    for img in div.cssselect("img"):
+        url = img.attrib["data-original"]
         if url not in urls:
             print(url)
             urls.append(url)
