@@ -4,7 +4,7 @@ import os.path
 import requests
 from bs4 import BeautifulSoup
 
-WEBHOOK = os.environ["DISCORD_WEBHOOK_URL"]
+WEBHOOK = os.environ.get("DISCORD_WEBHOOK_URL")
 
 URLS = "urls.txt"
 
@@ -29,8 +29,9 @@ for div in reversed(doc.find_all("div", class_="news_box")):
             urls.append(url)
             r = requests.get(url, stream=True)
             files = {"file": (os.path.basename(url), r.raw)}
-            response = requests.post(WEBHOOK, files=files)
-            response.raise_for_status()
+            if WEBHOOK:
+                response = requests.post(WEBHOOK, files=files)
+                response.raise_for_status()
 
-            with open(URLS, "w") as f:
-                f.write("\n".join(urls))
+                with open(URLS, "w") as f:
+                    f.write("\n".join(urls))
