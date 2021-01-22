@@ -29,6 +29,7 @@ for url in urls:
         print(url)
         urls.append(url)
         r = requests.get(url, stream=True)
+        r.raise_for_status()
         files = {"file": (os.path.basename(url), r.raw)}
         if WEBHOOK:
             response = requests.post(WEBHOOK, files=files)
