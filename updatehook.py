@@ -40,6 +40,7 @@ async def main():
                             print(response.status)
                             break
                     all_urls.append(url)
+                    await asyncio.sleep(1)
 
             ALL_URLS.write_text("".join(f"{url}\n" for url in all_urls))
             CURRENT_URLS.write_text("".join(f"{url}\n" for url in urls))
