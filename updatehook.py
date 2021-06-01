@@ -18,7 +18,7 @@ async def main():
     except FileNotFoundError:
         all_urls = []
 
-    async with aiohttp.ClientSession(raise_for_status=True) as session:
+    async with aiohttp.ClientSession() as session:
         async with session.get(
             "https://p.eagate.573.jp/game/sdvx/vi/news/"
         ) as response:
@@ -31,12 +31,15 @@ async def main():
                 print(url)
 
                 if WEBHOOK and url not in all_urls:
-                    all_urls.append(url)
                     async with session.get(url) as response:
                         image_data = await response.read()
                     data = aiohttp.FormData()
                     data.add_field("file", image_data, filename=URL(url).name)
-                    await session.post(WEBHOOK, data=data)
+                    async with session.post(WEBHOOK, data=data) as response:
+                        if response.status >= 400:
+                            print(response.status)
+                            break
+                    all_urls.append(url)
 
             ALL_URLS.write_text("".join(f"{url}\n" for url in all_urls))
             CURRENT_URLS.write_text("".join(f"{url}\n" for url in urls))
