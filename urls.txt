@@ -54,3 +54,5 @@ https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/210701_generator_vol2.jp
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/210701_license.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/210701_konasute_update.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/210705_ac_konaste.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/210721_pcb_input.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/210721_stamp.jpg
