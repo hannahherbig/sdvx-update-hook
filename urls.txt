@@ -93,3 +93,8 @@ https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/211125_himehina.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/211201_museca.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/211201_update.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/211209_license.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/211216_hiyukicrew.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/211216_generator.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/211216_museca.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/211216_bonus.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/211216_pcb_input.jpg
