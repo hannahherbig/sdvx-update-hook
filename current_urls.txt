@@ -70,7 +70,6 @@ https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/210608_konasute_update.j
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/210601_konasute_update.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/210520_characon.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/210520_license.jpg
-https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/220101_stamp_hunnychan.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/211223_characon.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/211216_hiyukicrew.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/211216_generator.jpg
@@ -100,3 +99,9 @@ https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/210916_characon.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/210914_koubaibu.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/210903_goods.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/210902_konasute_update.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/220118_10th_anniversary.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/220118_10th_campaign.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/220118_rtcan.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/220118_touhyou_link.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/220118_contest_1.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/220101_stamp_hunnychan.jpg
