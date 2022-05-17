@@ -99,7 +99,6 @@ https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/210916_characon.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/210914_koubaibu.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/210903_goods.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/210902_konasute_update.jpg
-https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/220512_museca.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/220428_bplcon_b.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/220425_2nd.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/220425_theme.jpg
@@ -129,3 +128,4 @@ https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/220118_rtcan.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/220118_touhyou_link.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/220118_contest_1.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/220101_stamp_hunnychan.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/220512_museca.jpg
