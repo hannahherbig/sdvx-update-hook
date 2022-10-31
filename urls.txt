@@ -169,3 +169,6 @@ https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/221020_crew.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/221020_license.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/221020_blasterpass.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/221020_generator_r.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/221101_bemani.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/221101_emahjong.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/221101_kinou.jpg
