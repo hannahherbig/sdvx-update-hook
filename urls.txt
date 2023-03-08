@@ -208,3 +208,6 @@ https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/230223_BPL.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/230228_card.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/230302_BPL.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/230303_controller.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/230309_goods.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/230309_generator.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/230309_license.jpg
