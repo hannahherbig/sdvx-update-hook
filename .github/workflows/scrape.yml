@@ -10,7 +10,7 @@ jobs:
   scheduled:
     runs-on: ubuntu-20.04
     steps:
-      - uses: actions/checkout@v3.1.0
+      - uses: actions/checkout@v3.4.0
         with:
           fetch-depth: 0
       - uses: actions/cache@v3.0.11
