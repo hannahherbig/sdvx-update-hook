@@ -236,3 +236,4 @@ https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/230601_pcb.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/230602_contest.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/230608_arena.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/230608_arenastation.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/230608_collaboration.jpg
