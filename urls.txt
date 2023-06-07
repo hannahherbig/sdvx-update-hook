@@ -237,3 +237,6 @@ https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/230602_contest.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/230608_arena.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/230608_arenastation.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/230608_collaboration.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/230608_generator.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/230608_remcrew.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/230608_rezero_music.jpg
