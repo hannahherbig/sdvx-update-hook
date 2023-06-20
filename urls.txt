@@ -240,3 +240,7 @@ https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/230608_collaboration.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/230608_generator.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/230608_remcrew.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/230608_rezero_music.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/230622_generator.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/230622_emiliacrew.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/230622_rezero_music.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/230622_bpl.jpg
