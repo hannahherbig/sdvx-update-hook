@@ -248,3 +248,5 @@ https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/230629_license.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/230706_10thremix.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/230706_bplteam.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/230708_pcb.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/230713_arena.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news/230713_arenastation.jpg
