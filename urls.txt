@@ -298,3 +298,5 @@ https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240118_ortlindecrew.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240118_license.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240125_license.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240129_bplticket_1.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240130_blaster.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240130_pcb.jpg
