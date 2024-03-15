@@ -320,3 +320,5 @@ https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240307_BPLcontest.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240307_iidx.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240313_minicrew.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240314_BPLcontest.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240314_bplticket.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240315_pass_remaind.jpg
