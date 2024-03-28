@@ -326,3 +326,5 @@ https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240321_crew.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240321_generator.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240321_cd.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240327_UDM.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/top/bnr/bpl3ticket2_off.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240328_BPLforder.jpg
