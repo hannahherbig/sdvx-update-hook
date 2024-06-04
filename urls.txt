@@ -338,3 +338,7 @@ https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240502_generator.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240502_arena.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240502_arenastation.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240523_10thremix.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240606_watame_campaign.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240606_generator.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240606_watame_crew.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240606_watame_music.jpg
