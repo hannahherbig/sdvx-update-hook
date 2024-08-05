@@ -697,3 +697,6 @@ https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240711_TAMAadotsuika.jp
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240725_kac.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240725_generatorstore.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240801_reflecbeat.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240807_generator.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240807_tohomusic.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240807_xcd.jpg
