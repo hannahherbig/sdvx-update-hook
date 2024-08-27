@@ -700,3 +700,7 @@ https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240801_reflecbeat.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240807_generator.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240807_tohomusic.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240807_xcd.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240829_crew.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240829_generator.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240827_campaign.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240829_kac.jpg
