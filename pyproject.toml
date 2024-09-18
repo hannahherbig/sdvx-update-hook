@@ -10,7 +10,7 @@ lxml = {extras = ["cssselect"], version = "^4.9.2"}
 aiohttp = "^3.8.5"
 
 [tool.poetry.dev-dependencies]
-black = "^23.3"
+black = "^24.8"
 isort = "^5.12.0"
 pre-commit = "^3.2.2"
 
