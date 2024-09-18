@@ -6,13 +6,13 @@ authors = ["Andrew Herbig <notandrewherbig@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-lxml = {extras = ["cssselect"], version = "^4.9.2"}
-aiohttp = "^3.8.3"
+lxml = {extras = ["cssselect"], version = "^5.3.0"}
+aiohttp = "^3.8.5"
 
 [tool.poetry.dev-dependencies]
-black = "^22.12"
-isort = "^5.11.2"
-pre-commit = "^2.20.0"
+black = "^24.8"
+isort = "^5.12.0"
+pre-commit = "^3.2.2"
 
 [build-system]
 requires = ["poetry>=0.12"]
