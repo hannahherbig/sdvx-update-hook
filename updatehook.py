@@ -24,7 +24,7 @@ async def main():
         ) as response:
             html = lxml.html.fromstring(await response.text())
 
-        urls = [img.attrib["data-original"] for img in html.cssselect(".news img")]
+        urls = [img.attrib["data-original"] for img in html.cssselect(".news img[data-original]")]
 
         if urls:
             for url in urls:
