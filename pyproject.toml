@@ -6,7 +6,7 @@ authors = ["Andrew Herbig <notandrewherbig@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-lxml = {extras = ["cssselect"], version = "^4.9.2"}
+lxml = {extras = ["cssselect"], version = "^5.3.0"}
 aiohttp = "^3.8.5"
 
 [tool.poetry.dev-dependencies]
