@@ -17,7 +17,7 @@ jobs:
         with:
           path: ~/.cache
           key: ${{ runner.os }}-${{ hashFiles('**/poetry.lock', '**/pre-commit-config.yaml') }}
-      - uses: actions/setup-python@v4.7.0
+      - uses: actions/setup-python@v5.3.0
       - name: Setup git
         run: |-
           git config --local user.name "github-actions[bot]"
