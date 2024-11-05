@@ -722,3 +722,7 @@ https://eacache.s.konaminet.jp/game/sdvx/top_banner/coop_top_bnr_sdvxvi_okayu.jp
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/241024_bpls4triple.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/241031_rank.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/241031_bplteam.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/241107_marinecrew.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/241107_generator.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/241107_marine_music.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/241107_campaign.jpg
