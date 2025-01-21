@@ -364,9 +364,6 @@ https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240606_generator.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240606_watame_crew.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240606_watame_music.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240523_10thremix.jpg
-https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250118_stamp.jpg
-https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250109_license.jpg
-https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250101_apikya_halt.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/241226_contest.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/241225_tamakac.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/241225_rank.jpg
@@ -403,3 +400,11 @@ https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240827_campaign_remind.
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240904_reunion2.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240904_reunion1.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240905_arena.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250123_generator.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250123_catcrew.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250123_generatorstore.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250123_Remix.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250123_voltefactory.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250118_stamp.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250109_license.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250101_apikya_halt.jpg
