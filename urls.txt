@@ -751,3 +751,7 @@ https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250123_Remix.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250123_voltefactory.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250123_contest1.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250206_tamakac.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250214_generator.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250214_crew.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250214_music.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250214_sinecampaign.jpg
