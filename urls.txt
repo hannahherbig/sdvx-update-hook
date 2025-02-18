@@ -756,3 +756,9 @@ https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250214_crew.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250214_music.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250214_sinecampaign.jpg
 https://eacache.s.konaminet.jp/game/sdvx/top_banner/coop_top_bnr_sdvxvi_meu.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250220_generator.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250220_crew.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250220_pekora_music.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250220_epass_campaign.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250220_hololive.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250220_pass.jpg
