@@ -765,3 +765,6 @@ https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250220_pass.jpg
 https://eacache.s.konaminet.jp/game/sdvx/top_banner/coop_top_bnr_sdvxvi_pekora.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250227_10thremix.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250123_contest2.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250319_tamaneko.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250319_generator.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250319_minicrew.jpg
