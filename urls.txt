@@ -768,3 +768,7 @@ https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250123_contest2.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250319_tamaneko.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250319_generator.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250319_minicrew.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250220_epass_campaign_end.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250313_goods.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250313_pregene20.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250313_rank.jpg
