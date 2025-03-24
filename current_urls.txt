@@ -400,6 +400,8 @@ https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240827_campaign_remind.
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240904_reunion2.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240904_reunion1.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/240905_arena.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250220_epass_campaign_end.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250220_pass.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250319_tamaneko.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250319_generator.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250319_minicrew.jpg
