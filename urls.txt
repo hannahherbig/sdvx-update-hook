@@ -772,3 +772,7 @@ https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250220_epass_campaign_e
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250313_goods.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250313_pregene20.jpg
 https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250313_rank.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250326_generator.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250326_crew.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250326_music.jpg
+https://eacache.s.konaminet.jp/game/sdvx/vi/images/news2/250326_epass_campaign.jpg
